@@ -71,7 +71,7 @@
 - Checkout details for current order assigned to Service Provider
 <p align="center">
 <img src="Screenshots/Service_provider_status.png" height="440">
-<img src="Screenshots/OTP_Verification.png" height="440">
+<img src="Screenshots/OTP_Verification.jpg" height="440">
 </p>
 
 
