@@ -57,7 +57,7 @@
 
 - Payment options after allocation of feasible Service Provider
 <p align="center">
-<img src="Screenshots/Sender_Payment_Proceed.png" height="440">
+<img src="Screenshots/Checkout_screen.jpg" height="440">
 <img src="Screenshots/Sender_Razorpay.png" height="440">
 </p>
 
@@ -71,6 +71,7 @@
 - Checkout details for current order assigned to Service Provider
 <p align="center">
 <img src="Screenshots/Service_provider_status.png" height="440">
+<img src="Screenshots/OTP_Verification.png" height="440">
 </p>
 
 
@@ -80,6 +81,7 @@
 <p align="center">
 <img src="Screenshots/Receiver_Onboarding.png" height="440">
 <img src="Screenshots/Receiver_Package_Details.jfif" height="440">
+<img src="Screenshots/Live_Tracking.jpg" height="440">
 </p>
 
 
