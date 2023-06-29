@@ -76,7 +76,7 @@
 
 
 ## Receiver Section
-- Checkout Package Details
+- Checkout Package Details and Live Tracking of Package
 
 <p align="center">
 <img src="Screenshots/Receiver_Onboarding.png" height="440">
